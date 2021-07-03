@@ -1,9 +1,12 @@
 :root {
   --dove-gray: #707070;
+  --java: #30bac1;
   --red: #f70505;
+  --white: #ffffff;
 
-  --font-size-l: 72px;
+  --font-size-l: 42px;
   --font-size-m: 20px;
+  --font-size-xl: 72px;
 
   --font-family-segoe_ui: "Segoe UI", Helvetica;
   --font-family-segoeui-bold: "SegoeUI-Bold", Helvetica;
@@ -13,6 +16,13 @@
   color: var(--dove-gray);
   font-family: var(--font-family-segoeui-regular);
   font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-java-42px {
+  color: var(--java);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
