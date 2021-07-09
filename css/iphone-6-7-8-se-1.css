@@ -1,0 +1,325 @@
+/* screen - iphone-6-7-8-se-1 */
+
+.iphone-6-7-8-se-1 {
+  background-color: var(--white);
+  height: 2230px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.iphone-6-7-8-se-1 .header-Pfl3xq {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.iphone-6-7-8-se-1 .header-box-1Siulk {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 18px);
+}
+
+.iphone-6-7-8-se-1 .logo-1Siulk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.iphone-6-7-8-se-1 .logo-1Siulk:hover {
+  transform: scale(0.9); 
+}
+
+.iphone-6-7-8-se-1 .ac-klima-servis-1Siulk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.03% - 108px);
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.iphone-6-7-8-se-1 .ac-klima-servis-1Siulk:hover {
+  color: #F70505
+}
+
+.iphone-6-7-8-se-1 .popravak-Pfl3xq {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 239px;
+  left: 16px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 129px;
+  transition: all 0.2s ease;
+  width: 349px;
+}
+
+.iphone-6-7-8-se-1 .popravak-Pfl3xq:hover {
+  transform: scale(1.1);
+}
+
+.iphone-6-7-8-se-1 .ienje-Pfl3xq {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 239px;
+  left: 16px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 507px;
+  transition: all 0.2s ease;
+  width: 349px;
+}
+
+.iphone-6-7-8-se-1 .ienje-Pfl3xq:hover {
+  transform: scale(1.1);
+}
+
+.iphone-6-7-8-se-1 .montaa-i-popravak-Pfl3xq {
+  background-color: transparent;
+  color: var(--java);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 391px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-6-7-8-se-1 .ienje-FpuHKs {
+  background-color: transparent;
+  color: var(--java);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-6-7-8-se-1 .desno-Pfl3xq {
+  background-color: transparent;
+  height: 713px;
+  left: 44px;
+  position: absolute;
+  top: 906px;
+  width: 288px;
+}
+
+.iphone-6-7-8-se-1 .email-MZDkWV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-6-7-8-se-1 .e-mailacklimaservisgmailcom-5brr5x {
+  background-color: transparent;
+  height: 83px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.iphone-6-7-8-se-1 .email-icon-5brr5x {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.iphone-6-7-8-se-1 .email-icon-5brr5x:hover {
+  transform: translate(-5px, 0);
+}
+
+.iphone-6-7-8-se-1 .adresa-MZDkWV {
+  background-color: transparent;
+  bottom: calc(25.56% - 34px);
+  height: 134px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-6-7-8-se-1 .adresa-sjeditah-ranovo-hrvatska-RRL0gH {
+  background-color: transparent;
+  height: 112px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.iphone-6-7-8-se-1 .lokacija-icon-RRL0gH {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.iphone-6-7-8-se-1 .lokacija-icon-RRL0gH:hover {
+  transform: translate(-5px, 0);
+}
+
+.iphone-6-7-8-se-1 .broj-MZDkWV {
+  background-color: transparent;
+  height: 132px;
+  left: 0px;
+  position: absolute;
+  top: calc(44.06% - 58px);
+  width: 100%;
+}
+
+.iphone-6-7-8-se-1 .broj-telefonaph-833097-3173-025-mWvVYx {
+  background-color: transparent;
+  height: 110px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.iphone-6-7-8-se-1 .broj-icon-mWvVYx {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.iphone-6-7-8-se-1 .broj-icon-mWvVYx:hover {
+  transform: translate(-5px, 0);
+}
+
+.iphone-6-7-8-se-1 .radno-vrijeme-MZDkWV {
+  background-color: transparent;
+  height: 213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-6-7-8-se-1 .radno-vrijemeho-0h-nedzatvoreno-CWf3yt {
+  background-color: transparent;
+  height: 191px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(109.09% - 208px);
+  width: 231px;
+}
+
+.iphone-6-7-8-se-1 .vrijeme-icon-CWf3yt {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.iphone-6-7-8-se-1 .vrijeme-icon-CWf3yt:hover {
+  transform: translate(-5px, 0);
+}
+
+.iphone-6-7-8-se-1 .x2021-ac-klima-s-rights-reserved-Pfl3xq {
+  background-color: transparent;
+  height: 152px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2075px;
+  width: 284px;
+}
+
+.iphone-6-7-8-se-1 .facebook-Pfl3xq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 274px;
+  left: 54px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1732px;
+  transition: all 0.2s ease;
+  width: 274px;
+}
+
+.iphone-6-7-8-se-1 .facebook-Pfl3xq:hover {
+  filter: grayscale(100%);
+}
