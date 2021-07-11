@@ -1,0 +1,522 @@
+/* screen - desktop */
+
+.desktop {
+  background-color: var(--white);
+  height: 2700px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.desktop .info-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 830px;
+  left: 249px;
+  position: absolute;
+  top: 1830px;
+  width: 1424px;
+}
+
+.desktop .x2021-ac-klima-s-rights-reserved-H1GXWa {
+  background-color: transparent;
+  bottom: -2px;
+  height: 32px;
+  left: 145px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 143px);
+}
+
+.desktop .lijevo-H1GXWa {
+  background-color: transparent;
+  height: 644px;
+  left: 0px;
+  position: absolute;
+  top: 59px;
+  width: 766px;
+}
+
+.desktop .informacije-SeIou3 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  width: 291px;
+}
+
+.desktop .podnoenje-prigo-lanje-prigovora-OQadFL {
+  background-color: transparent;
+  bottom: -12px;
+  height: 83px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.desktop .informacije-OQadFL {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.desktop .informacije-OQadFL:hover {
+  transform: translate(-5px, 0);
+}
+
+.desktop .pravno-SeIou3 {
+  background-color: transparent;
+  bottom: calc(25.39% - 34px);
+  height: 132px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.desktop .politika-upravl-data-processing-GxJBIq {
+  background-color: transparent;
+  height: 110px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.desktop .pravno-icon-GxJBIq {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.desktop .pravno-icon-GxJBIq:hover {
+  transform: translate(-5px, 0);
+}
+
+.desktop .facebook-SeIou3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 274px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: 12px;
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 274px;
+}
+
+.desktop .facebook-SeIou3:hover {
+  filter: grayscale(100%);
+}
+
+.desktop .desno-H1GXWa {
+  background-color: transparent;
+  height: 630px;
+  position: absolute;
+  right: 89px;
+  top: 0px;
+  width: 403px;
+}
+
+.desktop .email-ntKbn1 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  width: 274px;
+}
+
+.desktop .e-mailacklimaservisgmailcom-CnRzYE {
+  background-color: transparent;
+  height: 83px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.desktop .email-icon-CnRzYE {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.desktop .email-icon-CnRzYE:hover {
+  transform: translate(-5px, 0);
+}
+
+.desktop .adresa-ntKbn1 {
+  background-color: transparent;
+  bottom: calc(24.76% - 26px);
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.desktop .adresa-sjeditah-rvatska-croatia-f4sZwu {
+  background-color: transparent;
+  height: 83px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.desktop .lokacija-icon-f4sZwu {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.desktop .lokacija-icon-f4sZwu:hover {
+  transform: translate(-5px, 0);
+}
+
+.desktop .broj-ntKbn1 {
+  background-color: transparent;
+  height: 132px;
+  left: 0px;
+  position: absolute;
+  top: calc(47.79% - 63px);
+  width: calc(100.00% - 46px);
+}
+
+.desktop .broj-telefonaph-833097-3173-025-3lxBss {
+  background-color: transparent;
+  height: 110px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.desktop .broj-icon-3lxBss {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.desktop .broj-icon-3lxBss:hover {
+  transform: translate(-5px, 0);
+}
+
+.desktop .radno-vrijeme-ntKbn1 {
+  background-color: transparent;
+  height: 213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 48px);
+}
+
+.desktop .radno-vrijemeho-0h-nedzatvoreno-0WHZhD {
+  background-color: transparent;
+  height: 191px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(109.09% - 208px);
+  width: calc(100.00% - 46px);
+}
+
+.desktop .vrijeme-icon-0WHZhD {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.desktop .vrijeme-icon-0WHZhD:hover {
+  transform: translate(-5px, 0);
+}
+
+.desktop .google-maps-dg6U5x {
+  background-color: var(--white);
+  height: 540px;
+  left: 0px;
+  position: absolute;
+  top: 1139px;
+  width: 1920px;
+}
+
+.desktop .galerija-dg6U5x {
+  background-color: transparent;
+  height: 440px;
+  left: 120px;
+  position: absolute;
+  top: 284px;
+  width: 1680px;
+}
+
+.desktop .opis-slike-ZKcrHS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 56px;
+  left: 169px;
+  position: absolute;
+  width: calc(100.00% - 344px);
+}
+
+.desktop .ienje-8Kt6vW {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.desktop .popravak-8Kt6vW {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  right: calc(49.74% - 86px);
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.desktop .montaa-8Kt6vW {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.desktop .popravak-ZKcrHS {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 352px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.78% - 258px);
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 519px;
+}
+
+.desktop .popravak-ZKcrHS:hover {
+  transform: scale(1.1);
+}
+
+.desktop .ienje-ZKcrHS {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 352px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -12px;
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 519px;
+}
+
+.desktop .ienje-ZKcrHS:hover {
+  transform: scale(1.1);
+}
+
+.desktop .montaa-ZKcrHS {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 352px;
+  left: -6px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -1px;
+  transition: all 0.2s ease-in-out;
+  width: 518px;
+}
+
+.desktop .montaa-ZKcrHS:hover {
+  transform: scale(1.1);
+}
+
+.desktop .header-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 200px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.desktop .header-box-srN1s4 {
+  background-color: var(--white);
+  box-shadow: 0px 8px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop .title-srN1s4 {
+  background-color: transparent;
+  bottom: calc(49.02% - 48px);
+  color: var(--java);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 98px;
+  letter-spacing: 0.00px;
+  line-height: 72px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.93% - 282px);
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 564px;
+}
+
+.desktop .title-srN1s4:hover {
+  color: #F70505
+}
+
+.desktop .logo-srN1s4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 50px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 198px;
+}
+
+.desktop .logo-srN1s4:hover {
+  transform: scale(0.9); 
+}
+
+.desktop .probod-zida-pos-ute-o-koritenju-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 775px;
+  width: 477px;
+}
+
+.desktop .ienje-i-dezinfe-enim-sredstvima-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1306px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 768px;
+  width: 496px;
+}
+
+.desktop .span0-PUeHYN {
+}
+
+.desktop .span1-PUeHYN {
+  color: var(--java);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.desktop .span2-PUeHYN {
+}
+
+.desktop .izlazak-na-tere-ora-i-izolacije-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 727px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 775px;
+  width: 506px;
+}

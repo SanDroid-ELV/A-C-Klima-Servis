@@ -1,0 +1,90 @@
+/* screen - phone-3 */
+
+.phone-3 {
+  background-color: var(--white);
+  height: 1662px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.phone-3 .header-Zi72Uk {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.phone-3 .header-box-8ycxDo {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 18px);
+}
+
+.phone-3 .logo-8ycxDo {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.phone-3 .logo-8ycxDo:hover {
+  transform: scale(0.9); 
+}
+
+.phone-3 .coil-disinfectant-8ycxDo {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.25% - 119px);
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 241px;
+}
+
+.phone-3 .coil-disinfectant-8ycxDo:hover {
+  color: #F70505
+}
+
+.phone-3 .vaa-unutarnja-j-omae-u-otklanja-Zi72Uk {
+  background-color: transparent;
+  height: 1325px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 302px;
+}
+
+.phone-3 .x2021-ac-klima-s-rights-reserved-Zi72Uk {
+  background-color: transparent;
+  height: 152px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1512px;
+  width: 284px;
+}

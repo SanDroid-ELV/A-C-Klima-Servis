@@ -1,0 +1,102 @@
+/* screen - phone-1 */
+
+.phone-1 {
+  background-color: var(--white);
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.phone-1 .header-WEaoWi {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.phone-1 .header-box-KKmEn9 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 18px);
+}
+
+.phone-1 .logo-KKmEn9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.phone-1 .logo-KKmEn9:hover {
+  transform: scale(0.9); 
+}
+
+.phone-1 .montaa-i-popravak-KKmEn9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  pointer-events: auto;
+  position: absolute;
+  right: 47px;
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.phone-1 .montaa-i-popravak-KKmEn9:hover {
+  color: #F70505
+}
+
+.phone-1 .x2021-ac-klima-s-rights-reserved-WEaoWi {
+  background-color: transparent;
+  height: 152px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 694px;
+  width: 284px;
+}
+
+.phone-1 .probod-zida-pos-ute-o-koritenju-WEaoWi {
+  background-color: transparent;
+  height: 229px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 302px;
+}
+
+.phone-1 .izlazak-na-tere-ora-i-izolacije-WEaoWi {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 302px;
+}

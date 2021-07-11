@@ -1,0 +1,105 @@
+/* screen - phone-2 */
+
+.phone-2 {
+  background-color: var(--white);
+  height: 667px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.phone-2 .header-6TP6jR {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.phone-2 .header-box-6nNBOE {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 18px);
+}
+
+.phone-2 .logo-6nNBOE {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.phone-2 .logo-6nNBOE:hover {
+  transform: scale(0.9); 
+}
+
+.phone-2 .ienje-6nNBOE {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 11px);
+  left: calc(47.87% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.phone-2 .ienje-6nNBOE:hover {
+  color: #F70505
+}
+
+.phone-2 .ienje-i-dezinfe-enim-sredstvima-6TP6jR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 328px;
+}
+
+.phone-2 .span0-kqrT7H {
+}
+
+.phone-2 .span1-kqrT7H {
+  color: var(--java);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.phone-2 .span2-kqrT7H {
+}
+
+.phone-2 .x2021-ac-klima-s-rights-reserved-6TP6jR {
+  background-color: transparent;
+  height: 152px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  width: 284px;
+}

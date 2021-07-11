@@ -2,669 +2,326 @@
 
 .index {
   background-color: var(--white);
-  height: 2700px;
+  height: 2230px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1920px;
-}
-
-.index .info-IO3Fu5 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 830px;
-  left: 148px;
-  position: absolute;
-  top: 1845px;
-  width: 1424px;
-}
-
-.index .x2021-ac-klima-s-rights-reserved-V4ht1m {
-  background-color: transparent;
-  bottom: -2px;
-  height: 32px;
-  left: 145px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: absolute;
-  text-align: left;
-  width: calc(100.00% - 143px);
-}
-
-.index .lijevo-V4ht1m {
-  background-color: transparent;
-  height: 644px;
-  left: 0px;
-  position: absolute;
-  top: 59px;
-  width: 766px;
-}
-
-.index .informacije-eaz6pG {
-  background-color: transparent;
-  bottom: 0px;
-  height: 105px;
-  left: 0px;
-  position: absolute;
-  width: 291px;
-}
-
-.index .podnoenje-prigo-lanje-prigovora-PUac2N {
-  background-color: transparent;
-  bottom: -12px;
-  height: 83px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 245px;
-}
-
-.index .informacije-PUac2N {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .informacije-PUac2N:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .pravno-eaz6pG {
-  background-color: transparent;
-  bottom: calc(25.39% - 34px);
-  height: 132px;
-  left: 0px;
-  position: absolute;
-  width: 100%;
-}
-
-.index .politika-upravl-data-processing-XUcxx0 {
-  background-color: transparent;
-  height: 110px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: absolute;
-  text-align: left;
-  top: 24px;
-  width: calc(100.00% - 46px);
-}
-
-.index .pravno-icon-XUcxx0 {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .pravno-icon-XUcxx0:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .facebook-eaz6pG {
-  background-color: transparent;
-  cursor: pointer;
-  height: 274px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  right: 12px;
-  top: -1px;
-  transition: all 0.2s ease;
-  width: 274px;
-}
-
-.index .facebook-eaz6pG:hover {
-  filter: grayscale(100%);
-}
-
-.index .desno-V4ht1m {
-  background-color: transparent;
-  height: 630px;
-  position: absolute;
-  right: 89px;
-  top: 0px;
-  width: 403px;
-}
-
-.index .email-xW00tz {
-  background-color: transparent;
-  bottom: 0px;
-  height: 105px;
-  left: 0px;
-  position: absolute;
-  width: 274px;
-}
-
-.index .e-mailacklimaservisgmailcom-y5n2tP {
-  background-color: transparent;
-  height: 83px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: 24px;
-  width: calc(100.00% - 46px);
-}
-
-.index .email-icon-y5n2tP {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .email-icon-y5n2tP:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .adresa-xW00tz {
-  background-color: transparent;
-  bottom: calc(24.76% - 26px);
-  height: 105px;
-  left: 0px;
-  position: absolute;
-  width: 100%;
-}
-
-.index .adresa-sjeditah-rvatska-croatia-xByYgr {
-  background-color: transparent;
-  height: 83px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: 24px;
-  width: calc(100.00% - 46px);
-}
-
-.index .lokacija-icon-xByYgr {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .lokacija-icon-xByYgr:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .broj-xW00tz {
-  background-color: transparent;
-  height: 132px;
-  left: 0px;
-  position: absolute;
-  top: calc(47.79% - 63px);
-  width: calc(100.00% - 46px);
-}
-
-.index .broj-telefonaph-833097-3173-025-aj6hSc {
-  background-color: transparent;
-  height: 110px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: 24px;
-  width: calc(100.00% - 46px);
-}
-
-.index .broj-icon-aj6hSc {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .broj-icon-aj6hSc:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .radno-vrijeme-xW00tz {
-  background-color: transparent;
-  height: 213px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 48px);
-}
-
-.index .radno-vrijemeho-0h-nedzatvoreno-9pE3qB {
-  background-color: transparent;
-  height: 191px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: absolute;
-  text-align: left;
-  top: calc(109.09% - 208px);
-  width: calc(100.00% - 46px);
-}
-
-.index .vrijeme-icon-9pE3qB {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .vrijeme-icon-9pE3qB:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .desno-489vmn {
-  background-color: transparent;
-  height: 630px;
-  position: absolute;
-  right: 135px;
-  top: 0px;
-  width: 357px;
-}
-
-.index .email-k1OOID {
-  background-color: transparent;
-  bottom: 0px;
-  height: 105px;
-  left: 0px;
-  position: absolute;
-  width: 274px;
-}
-
-.index .e-mailacklimaservisgmailcom-JkQB4Z {
-  background-color: transparent;
-  height: 83px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: 24px;
-  width: calc(100.00% - 46px);
-}
-
-.index .email-icon-JkQB4Z {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .email-icon-JkQB4Z:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .adresa-k1OOID {
-  background-color: transparent;
-  bottom: calc(32.13% - 15px);
-  height: 48px;
-  left: 0px;
-  position: absolute;
-  width: 48px;
-}
-
-.index .lokacija-icon-ehEVgi {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 100%;
-}
-
-.index .lokacija-icon-ehEVgi:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .broj-k1OOID {
-  background-color: transparent;
-  height: 132px;
-  left: 0px;
-  position: absolute;
-  top: calc(47.79% - 63px);
-  width: 100%;
-}
-
-.index .broj-telefonaph-833097-3173-025-Xe3I4m {
-  background-color: transparent;
-  height: 110px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: 24px;
-  width: calc(100.00% - 46px);
-}
-
-.index .broj-icon-Xe3I4m {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .broj-icon-Xe3I4m:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .radno-vrijeme-k1OOID {
-  background-color: transparent;
-  height: 213px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 2px);
-}
-
-.index .radno-vrijemeho-0h-nedzatvoreno-jllKhe {
-  background-color: transparent;
-  height: 191px;
-  left: 48px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: absolute;
-  text-align: left;
-  top: calc(109.09% - 208px);
-  width: calc(100.00% - 46px);
-}
-
-.index .vrijeme-icon-jllKhe {
-  background-color: transparent;
-  height: 48px;
-  left: 0px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease;
-  width: 48px;
-}
-
-.index .vrijeme-icon-jllKhe:hover {
-  transform: translate(-5px, 0);
-}
-
-.index .google-maps-IO3Fu5 {
-  background-color: var(--white);
-  height: 540px;
-  left: 0px;
-  position: absolute;
-  top: 1139px;
-  width: 1920px;
-}
-
-.index .galerija-IO3Fu5 {
-  background-color: transparent;
-  height: 440px;
-  left: 120px;
-  position: absolute;
-  top: 284px;
-  width: 1680px;
-}
-
-.index .opis-slike-i7CVPQ {
-  background-color: transparent;
-  bottom: 0px;
-  height: 56px;
-  left: 169px;
-  position: absolute;
-  width: calc(100.00% - 344px);
-}
-
-.index .ienje-0Y1Npx {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  letter-spacing: 0.00px;
-  line-height: 42px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: 153px;
-}
-
-.index .popravak-0Y1Npx {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  letter-spacing: 0.00px;
-  line-height: 42px;
-  position: absolute;
-  right: calc(49.74% - 86px);
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: 172px;
-}
-
-.index .montaa-0Y1Npx {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 42px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: 164px;
-}
-
-.index .popravak-i7CVPQ {
-  background-color: transparent;
-  border-radius: 8px;
-  height: 352px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  right: calc(49.78% - 258px);
-  top: -1px;
-  transition: all 0.2s ease;
-  width: 519px;
-}
-
-.index .popravak-i7CVPQ:hover {
-  transform: scale(1.1);
-}
-
-.index .ienje-i7CVPQ {
-  background-color: transparent;
-  border-radius: 8px;
-  height: 352px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  right: -12px;
-  top: -1px;
-  transition: all 0.2s ease;
-  width: 519px;
-}
-
-.index .ienje-i7CVPQ:hover {
-  transform: scale(1.1);
-}
-
-.index .montaa-i7CVPQ {
-  background-color: transparent;
-  border-radius: 8px;
-  height: 352px;
-  left: -6px;
-  object-fit: cover;
-  pointer-events: auto;
-  position: absolute;
-  top: -1px;
-  transition: all 0.2s ease-in-out;
-  width: 518px;
-}
-
-.index .montaa-i7CVPQ:hover {
-  transform: scale(1.1);
+  width: 375px;
 }
 
 .index .header-IO3Fu5 {
   background-color: transparent;
-  cursor: pointer;
-  height: 200px;
+  height: 50px;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1920px;
+  width: 375px;
 }
 
 .index .header-box-74EEvB {
-  background-color: var(--white);
-  box-shadow: 0px 8px 6px #00000029;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.index .title-74EEvB {
   background-color: transparent;
-  bottom: calc(49.02% - 48px);
-  color: var(--java);
-  cursor: pointer;
-  font-family: var(--font-family-segoeui-bold);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
-  height: 98px;
-  letter-spacing: 0.00px;
-  line-height: 72px;
-  pointer-events: auto;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
   position: absolute;
-  right: calc(49.93% - 282px);
-  text-align: left;
-  transition: all 0.2s ease;
-  white-space: nowrap;
-  width: 564px;
-}
-
-.index .title-74EEvB:hover {
-  color: #F70505
+  top: -1px;
+  width: calc(100.00% + 18px);
 }
 
 .index .logo-74EEvB {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% - 2px);
-  left: 50px;
+  left: 1px;
   object-fit: cover;
   pointer-events: auto;
   position: absolute;
   top: 1px;
   transition: all 0.2s ease;
-  width: 198px;
+  width: 48px;
 }
 
 .index .logo-74EEvB:hover {
   transform: scale(0.9); 
 }
 
-.index .probod-zida-pos-ute-o-koritenju-IO3Fu5 {
-  background-color: transparent;
-  height: auto;
-  left: 120px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: absolute;
-  text-align: center;
-  top: 775px;
-  width: 477px;
-}
-
-.index .ienje-i-dezinfe-enim-sredstvima-IO3Fu5 {
+.index .ac-klima-servis-74EEvB {
   background-color: transparent;
   cursor: pointer;
-  height: auto;
-  left: 1306px;
+  height: calc(100.00% - 11px);
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 28px;
+  pointer-events: auto;
   position: absolute;
-  text-align: center;
-  top: 768px;
-  width: 496px;
+  right: calc(49.03% - 108px);
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 220px;
 }
 
-.index .span0-itYxa7 {
+.index .ac-klima-servis-74EEvB:hover {
+  color: #F70505
 }
 
-.index .span1-itYxa7 {
-  color: var(--java);
-  font-family: var(--font-family-segoeui-bold);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.index .span2-itYxa7 {
-}
-
-.index .izlazak-na-tere-ora-i-izolacije-IO3Fu5 {
+.index .popravak-IO3Fu5 {
   background-color: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 239px;
+  left: 16px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 129px;
+  transition: all 0.2s ease;
+  width: 349px;
+}
+
+.index .popravak-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .ienje-IO3Fu5 {
+  background-color: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 239px;
+  left: 16px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 507px;
+  transition: all 0.2s ease;
+  width: 349px;
+}
+
+.index .ienje-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .montaa-i-popravak-IO3Fu5 {
+  background-color: transparent;
+  color: var(--java);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
   height: auto;
-  left: 727px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 391px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .ienje-865xPf {
+  background-color: transparent;
+  color: var(--java);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .desno-IO3Fu5 {
+  background-color: transparent;
+  height: 713px;
+  left: 44px;
+  position: absolute;
+  top: 906px;
+  width: 288px;
+}
+
+.index .email-92a0kI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.index .e-mailacklimaservisgmailcom-OHoida {
+  background-color: transparent;
+  height: 83px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.index .email-icon-OHoida {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.index .email-icon-OHoida:hover {
+  transform: translate(-5px, 0);
+}
+
+.index .adresa-92a0kI {
+  background-color: transparent;
+  bottom: calc(25.56% - 34px);
+  height: 134px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.index .adresa-sjeditah-ranovo-hrvatska-xxPkqt {
+  background-color: transparent;
+  height: 112px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.index .lokacija-icon-xxPkqt {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.index .lokacija-icon-xxPkqt:hover {
+  transform: translate(-5px, 0);
+}
+
+.index .broj-92a0kI {
+  background-color: transparent;
+  height: 132px;
+  left: 0px;
+  position: absolute;
+  top: calc(44.06% - 58px);
+  width: 100%;
+}
+
+.index .broj-telefonaph-833097-3173-025-FmXghs {
+  background-color: transparent;
+  height: 110px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: calc(100.00% - 46px);
+}
+
+.index .broj-icon-FmXghs {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.index .broj-icon-FmXghs:hover {
+  transform: translate(-5px, 0);
+}
+
+.index .radno-vrijeme-92a0kI {
+  background-color: transparent;
+  height: 213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.index .radno-vrijemeho-0h-nedzatvoreno-gpnuCC {
+  background-color: transparent;
+  height: 191px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
+  right: -2px;
   text-align: center;
-  top: 775px;
-  width: 506px;
+  top: calc(109.09% - 208px);
+  width: 231px;
+}
+
+.index .vrijeme-icon-gpnuCC {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.index .vrijeme-icon-gpnuCC:hover {
+  transform: translate(-5px, 0);
+}
+
+.index .x2021-ac-klima-s-rights-reserved-IO3Fu5 {
+  background-color: transparent;
+  height: 152px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2080px;
+  width: 284px;
+}
+
+.index .facebook-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 274px;
+  left: 54px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1732px;
+  transition: all 0.2s ease;
+  width: 274px;
+}
+
+.index .facebook-IO3Fu5:hover {
+  filter: grayscale(100%);
 }
