@@ -1,3 +1,7 @@
+@media screen and (max-width: 375px){
+  url (desktop.html);
+}
+
 /* screen - index */
 
 .index {
