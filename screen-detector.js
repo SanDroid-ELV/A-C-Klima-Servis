@@ -4,7 +4,7 @@ function screen_resize() {
   var h = parseInt(window.innerHeight);
   var w = parseInt(window.innerWidth);
 
-  if(w <= 800) {
+  if(w <= 1080) {
       window.location.replace("http://redirectedSite.com/");
   }
  }
