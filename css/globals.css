@@ -1,7 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
-@media screen and (min-width: 375 px){
-  <meta http-equiv="Refresh" content="0; url=https://www.w3docs.com" />
+@media screen and (max-width: 375 px){
+  url (https://ac-klima-servis.xyz/desktop);
 }
 
 @font-face {
