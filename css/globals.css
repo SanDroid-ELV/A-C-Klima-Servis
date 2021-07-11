@@ -54,6 +54,6 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 375 px){
+@media screen and (max-width: 375px){
   url (desktop.html);
 }
