@@ -1,9 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
-@media screen and (max-width: 375 px){
-  url (desktop.html);
-}
-
 @font-face {
   font-family: "SegoeUI-Regular";
   font-style: normal;
@@ -56,4 +52,8 @@
 
 * {
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 375 px){
+  url (desktop.html);
 }
